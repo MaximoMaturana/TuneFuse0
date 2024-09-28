@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TuneFuse - Music Recommendation App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <canvas id="starfield"></canvas>
+    <header>
+        <h1>Tune<span>Fuse</span></h1>
+        <p>Discover Your Next Favorite Song</p>
+        <div class="header-buttons">
+            <button id="login-button" class="top-right-button">Log In</button>
+            <button id="my-songs-button" class="top-right-button hidden">My Songs</button>
+        </div>
+    </header>
+    <main id="main-content">
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Enter a song name">
+            <div id="search-dropdown" class="search-dropdown"></div>
+            <button id="search-button">Search</button>
+        </div>
+        <div id="search-results"></div>
+        <div id="recommendations"></div>
+        <div id="my-songs" class="hidden">
+            <h2>My Songs</h2>
+            <ul id="saved-songs-list"></ul>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 TuneFuse. Powered by Spotify.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/spotify-web-api-js@1.5.2/src/spotify-web-api.min.js"></script>
+    <script src="js/starfield.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
