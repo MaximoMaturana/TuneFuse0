@@ -7,11 +7,11 @@ TuneFuse is a music recommendation website that provides users with personalized
 
 - [Features](https://github.com/MaximoMaturana/TuneFuse0?tab=readme-ov-file#features)
   
-- [Technologies Used](https://github.com/MaximoMaturana/TuneFuse0/new/main?filename=README.md#technologies-used)
+- [Technologies Used](https://github.com/MaximoMaturana/TuneFuse0?tab=readme-ov-file#technologies-used)
   
-- [Setup and Installation](https://github.com/MaximoMaturana/TuneFuse0/new/main?filename=README.md#setup-and-installation)
+- [Setup and Installation](https://github.com/MaximoMaturana/TuneFuse0?tab=readme-ov-file#setup-and-installation)
   
-- [Usage](https://github.com/MaximoMaturana/TuneFuse0/new/main?filename=README.md#usage-)
+- [Usage](https://github.com/MaximoMaturana/TuneFuse0?tab=readme-ov-file#usage)
 
 
 ## Features
