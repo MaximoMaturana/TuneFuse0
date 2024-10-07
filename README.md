@@ -64,7 +64,7 @@ SPOTIFY_REDIRECT_URI=http://localhost:5000/callback
 6. Run the application:
 ```bash
 cd TuneFuse0\spotify-recommendation-app\
-cd python server.py
+$ python server.py
 ```
 
 ## Usage
