@@ -66,7 +66,7 @@ SPOTIFY_REDIRECT_URI=http://localhost:5000/callback
 cd TuneFuse0\spotify-recommendation-app\
 $ python server.py
 ```
-Or simply run server.py and click on the given link that will show up in ypur console.
+  Or simply run server.py and click on the given link that will show up in ypur console.
 
 ## Usage
 
